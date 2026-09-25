@@ -1,4 +1,4 @@
-# Trabajo Práctico N° 2 - Actividad 4: Sistema de Gestión de Eventos Universitarios (Versión Final)
+# Trabajo Práctico N° 2 - Actividad 4: Sistema de Gestión de Eventos Universitarios 
 
 Proyecto desarrollado para la cátedra **Paradigmas de Programación** (UTN FRM), correspondiente a la integración final del Trabajo Práctico 2 
 ---
